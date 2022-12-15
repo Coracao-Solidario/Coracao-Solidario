@@ -1,5 +1,6 @@
 # Coracao-Solidario
 
+![image](https://user-images.githubusercontent.com/83043344/207906892-fd6acfad-198d-42c4-9fae-cd4a1d9c8b75.png)
 
 
 Projeto Coração Solidario.
